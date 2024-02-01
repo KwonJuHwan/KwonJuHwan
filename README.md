@@ -9,7 +9,7 @@
 <div align=left><h2>🌈 Welcome</h1></div>
 
 안녕하세요 저는 백엔드를 공부하고 있는 주니어 개발자 권주환입니다!🙌🏻
-<br>a
+<br>
 제가 사용하는 기술 스택은 아래와 같습니다. 😀
 
 <div align=left><h2>📚 Stacks</h2></div>
