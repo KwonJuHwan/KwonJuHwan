@@ -22,15 +22,20 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white">
-  <img src="https://img.shields.io/badge/Django-6DB33F?style=flat-square&logo=Django&logoColor=white">
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/Celery-6DB33F?style=flat-square&logo=Celery&logoColor=white">
+  <img src="https://img.shields.io/badge/Selenium-6DB33F?style=flat-square&logo=Selenium&logoColor=white">
+  <img src="https://img.shields.io/badge/BoringSSL-6DB33F?style=flat-square&logo=BoringSSL&logoColor=white">
+  <img src="https://img.shields.io/badge/Batch-6DB33F?style=flat-square&logo=Batch&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/DOCKER-2496ED?style=flat-square&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Nginx-6DB33F?style=flat-square&logo=nginx&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/REDIS-DC382D?style=flat-square&logo=redis&logoColor=white">
-  <img src="https://img.shields.io/badge/H2-E6E600?style=flat-square&logo=h2&logoColor=white">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white">
   
   <br>
