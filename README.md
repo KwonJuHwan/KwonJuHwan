@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/badge/BoringSSL-3A3A3A?style=flat-square&logo=BoringSSL&logoColor=white">
   <img src="https://img.shields.io/badge/Batch-0D4F8B?style=flat-square&logo=Batch&logoColor=white">
   <br>
+  <img src="https://img.shields.io/badge/VScode-00BFFF?style=flat-square&logo=VScode&logoColor=white">
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
   <br>
