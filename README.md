@@ -24,10 +24,10 @@
   <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white">
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/Celery-6DB33F?style=flat-square&logo=Celery&logoColor=white">
-  <img src="https://img.shields.io/badge/Selenium-6DB33F?style=flat-square&logo=Selenium&logoColor=white">
-  <img src="https://img.shields.io/badge/BoringSSL-6DB33F?style=flat-square&logo=BoringSSL&logoColor=white">
-  <img src="https://img.shields.io/badge/Batch-6DB33F?style=flat-square&logo=Batch&logoColor=white">
+  <img src="https://img.shields.io/badge/Celery-C1B948?style=flat-square&logo=Celery&logoColor=white">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white">
+  <img src="https://img.shields.io/badge/BoringSSL-3A3A3A?style=flat-square&logo=BoringSSL&logoColor=white">
+  <img src="https://img.shields.io/badge/Batch-0D4F8B?style=flat-square&logo=Batch&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
