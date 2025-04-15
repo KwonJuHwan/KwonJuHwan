@@ -35,7 +35,8 @@
   <img src="https://img.shields.io/badge/Nginx-6DB33F?style=flat-square&logo=nginx&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/REDIS-DC382D?style=flat-square&logo=redis&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AWS&logoColor=white">
+  <img src="https://img.shields.io/badge/GCP-00BFFF?style=flat-square&logo=GCP&logoColor=white">
   
   <br>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
