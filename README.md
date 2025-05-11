@@ -19,7 +19,6 @@
   <br>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white">
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/Celery-C1B948?style=flat-square&logo=Celery&logoColor=white">
